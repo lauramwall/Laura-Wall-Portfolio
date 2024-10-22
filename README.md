@@ -1,4 +1,4 @@
-# [laura.ga](https://lauramwall.github.io/Laura-Wall-Portfolio/) (<a href="https://www.laura.ga" target="_blank">LINK</a>)
+# [lauramwall.github.io/Laura-Wall-Portfolio](https://lauramwall.github.io/Laura-Wall-Portfolio/) (<a href="https://www.laura.ga" target="_blank">LINK</a>)
 
 GitHub repository for my portfolio website. Feel free to take a look through my code.
 
